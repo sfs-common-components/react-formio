@@ -1,6 +1,6 @@
 {
-  "name": "react-formio",
-  "version": "4.3.0",
+  "name": "@smartfoodsafe/react-formio",
+  "version": "4.3.1",
   "description": "React renderer for form.io forms.",
   "main": "lib/index.js",
   "scripts": {
@@ -28,10 +28,10 @@
   },
   "homepage": "https://github.com/formio/react-formio#readme",
   "dependencies": {
+    "@smartfoodsafe/formiojs": "^4.12.1",
     "babel-polyfill": "^6.26.0",
     "core-js": "^3.1.4",
     "eventemitter2": "^5.0.1",
-    "formiojs": "^4.9.0",
     "lodash": "^4.17.15",
     "prop-types": "^15.7.2"
   },

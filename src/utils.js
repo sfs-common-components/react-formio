@@ -1,4 +1,4 @@
-import {Components} from 'formiojs';
+import {Components} from '@smartfoodsafe/formiojs';
 import _get from 'lodash/get';
 
 export const getComponentDefaultColumn = (component) => ({

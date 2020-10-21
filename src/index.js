@@ -1,7 +1,7 @@
-import Webform from 'formiojs/Webform';
-import WebformBuilder from 'formiojs/WebformBuilder';
-import Wizard from 'formiojs/Wizard';
-import WizardBuilder from 'formiojs/WizardBuilder';
+import Webform from '@smartfoodsafe/formiojs/Webform';
+import WebformBuilder from '@smartfoodsafe/formiojs/WebformBuilder';
+import Wizard from '@smartfoodsafe/formiojs/Wizard';
+import WizardBuilder from '@smartfoodsafe/formiojs/WizardBuilder';
 // import editFormUtils from 'formiojs/components//editForm/utils';
 
 export {
@@ -17,4 +17,4 @@ export * from './constants';
 export * from './modules';
 export * from './types';
 export * from './utils';
-export {Components, Formio, Utils, Templates} from 'formiojs';
+export {Components, Formio, Utils, Templates} from '@smartfoodsafe/formiojs';

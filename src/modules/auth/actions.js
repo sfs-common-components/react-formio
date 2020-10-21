@@ -1,4 +1,4 @@
-import formiojs from 'formiojs/Formio';
+import formiojs from '@smartfoodsafe/formiojs/Formio';
 import * as type from './constants';
 
 const requestUser = () => ({

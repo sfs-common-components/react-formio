@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
-import AllComponents from 'formiojs/components';
-import Components from 'formiojs/components/Components';
-import FormioFormBuilder from 'formiojs/FormBuilder';
+import AllComponents from '@smartfoodsafe/formiojs/components';
+import Components from '@smartfoodsafe/formiojs/components/Components';
+import FormioFormBuilder from '@smartfoodsafe/formiojs/FormBuilder';
 
 Components.setComponents(AllComponents);
 
